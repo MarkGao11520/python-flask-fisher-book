@@ -14,5 +14,3 @@
 * [3.蓝图、模型与CodeFirst](3.蓝图、模型与CodeFirst/README.md)
     * [3.1 应用、蓝图与视图函数](3.蓝图、模型与CodeFirst/3.1 应用、蓝图与视图函数.md)
 
-
-

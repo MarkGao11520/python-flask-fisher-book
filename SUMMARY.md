@@ -16,4 +16,5 @@
     * [3.2 用蓝图注册视图函数](3.蓝图、模型与CodeFirst/3.2 用蓝图注册试图函数.md)
     * [3.3 单蓝图多模块拆分视图函数](3.蓝图、模型与CodeFirst/3.3 单蓝图多模块拆分视图函数.md)
     * [3.4 Request对象](3.蓝图、模型与CodeFirst/3.4 Request对象.md)
+    * [3.5 WTForms参数验证](3.蓝图、模型与CodeFirst/3.5 WTForms参数验证.md)
 

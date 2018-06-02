@@ -18,5 +18,5 @@
     * [3.4 Request对象](3.蓝图、模型与CodeFirst/3.4 Request对象.md)
     * [3.5 WTForms参数验证](3.蓝图、模型与CodeFirst/3.5 WTForms参数验证.md)
     * [3.6 配置文件拆分](3.蓝图、模型与CodeFirst/3.6 配置文件拆分.md)
-    * [3.7 Model First、Database First与Code First](3.蓝图、模型与CodeFirst/3.7 Model First、Database First与Code First.md)
+    * [3.7 数据表创建方式](3.蓝图、模型与CodeFirst/3.7 Model First、Database First与Code First.md)
 

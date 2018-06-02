@@ -17,4 +17,7 @@
     * [3.3 单蓝图多模块拆分视图函数](3.蓝图、模型与CodeFirst/3.3 单蓝图多模块拆分视图函数.md)
     * [3.4 Request对象](3.蓝图、模型与CodeFirst/3.4 Request对象.md)
     * [3.5 WTForms参数验证](3.蓝图、模型与CodeFirst/3.5 WTForms参数验证.md)
+    * [3.6 配置文件拆分](3.蓝图、模型与CodeFirst/3.6 配置文件拆分.md)
+
+
 

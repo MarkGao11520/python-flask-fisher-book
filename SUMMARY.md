@@ -25,12 +25,6 @@
     * [5.2 AppContext、RequestContext、Flask与Request之间的关系](5.flask核心机制/5.2 AppContext、RequestContext、Flask与Request之间的关系.md)
     * [5.3 详解flask上下文与出入栈](5.flask核心机制/5.3 详解flask上下文与出入栈.md)
     * [5.4 flask上下文与with语句](5.flask核心机制/5.4 flask上下文与with语句.md)
-    * [5.5 详解上下文管理器的__exit__方法](5.flask核心机制/5.5 详解上下文管理器的__exit__方法.md)
+    * [5.5 详解上下文管理器的exit方法](5.flask核心机制/5.5 详解上下文管理器的__exit__方法.md)
     * [5.6 阅读源码解决db.create_all的问题](5.flask核心机制/5.6 阅读源码解决db.create_all的问题.md)
-
-
-
-
-
-
 

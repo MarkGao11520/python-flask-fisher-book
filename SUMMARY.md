@@ -20,7 +20,7 @@
     * [3.6 配置文件拆分](3.蓝图、模型与CodeFirst/3.6 配置文件拆分.md)
     * [3.7 数据表创建方式](3.蓝图、模型与CodeFirst/3.7 Model First、Database First与Code First.md)
     * [3.8 定义第一个模型类以及反向生成](3.蓝图、模型与CodeFirst/3.8 定义第一个模型类.md)
-* [5.flask核心机制](5.flask核心机制/README.md)
+* [4.flask核心机制](4.flask核心机制/README.md)
     * [4.1 flask中经典错误 working outside application context](4.flask核心机制/4.1 flask中经典错误 working outside application context.md)
     * [4.2 AppContext、RequestContext、Flask与Request之间的关系](4.flask核心机制/4.2 AppContext、RequestContext、Flask与Request之间的关系.md)
     * [4.3 详解flask上下文与出入栈](4.flask核心机制/4.3 详解flask上下文与出入栈.md)

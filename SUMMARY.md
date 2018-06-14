@@ -65,5 +65,5 @@
     * [11.1 重置密码流程分析](11.Python与Flask的结合应用/11.1 忘记密码.md)
     * [11.2 first_or_404和可调用对象](11.Python与Flask的结合应用/11.2 first_or_404和可调用对象.md)
     * [11.3 HttpException](11.Python与Flask的结合应用/11.3 HttpException.md)
-    * [11.4 发送电子邮件](11.Python与Flask的结合应用/11.4 发送电子邮件.md)
+    * [11.4 重置密码](11.Python与Flask的结合应用/11.4 发送电子邮件.md)
 

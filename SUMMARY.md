@@ -66,5 +66,3 @@
     * [11.2 first_or_404和可调用对象](11.Python与Flask的结合应用/11.2 first_or_404和可调用对象.md)
     * [11.3 HttpException](11.Python与Flask的结合应用/11.3 HttpException.md)
 
-
-

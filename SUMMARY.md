@@ -67,5 +67,3 @@
     * [11.3 HttpException](11.Python与Flask的结合应用/11.3 HttpException.md)
     * [11.4 发送电子邮件](11.Python与Flask的结合应用/11.4 发送电子邮件.md)
 
-
-
